@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T06:50:18.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="lax_3iGgmnwpnsaaIEJf" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T06:57:13.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="AKOeQRSouUgsTVuBpsZe" version="24.3.1" type="github">
   <diagram name="第 1 页" id="A-lZTEchQl7mIgZinoCd">
     <mxGraphModel dx="899" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,19 +23,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2cnC_9ASC_gIRCOhBWuR-3" value="图书信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="19" y="300" width="60" height="110" as="geometry" />
+          <mxGeometry x="19" y="300" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2cnC_9ASC_gIRCOhBWuR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="2cnC_9ASC_gIRCOhBWuR-5" target="2cnC_9ASC_gIRCOhBWuR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2cnC_9ASC_gIRCOhBWuR-5" value="读者信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="99" y="300" width="60" height="110" as="geometry" />
+          <mxGeometry x="99" y="300" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2cnC_9ASC_gIRCOhBWuR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="2cnC_9ASC_gIRCOhBWuR-6" target="2cnC_9ASC_gIRCOhBWuR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2cnC_9ASC_gIRCOhBWuR-6" value="管理员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="179" y="300" width="60" height="110" as="geometry" />
+          <mxGeometry x="179" y="300" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2cnC_9ASC_gIRCOhBWuR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2cnC_9ASC_gIRCOhBWuR-7" target="2cnC_9ASC_gIRCOhBWuR-1">
           <mxGeometry relative="1" as="geometry" />
